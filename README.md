@@ -5,10 +5,6 @@ Darknet fork useful for [drAIver]()
 ## OpenCv python support ##
 Added support for nparray images ( opencv format ) see issue [Darknet Python IMAGE object](https://github.com/pjreddie/darknet/issues/289)
 
-## YOLOv3 Kitty ##
-
-## YOLOv3 Lisa ##
-
 ![Darknet Logo](http://pjreddie.com/media/files/darknet-black-small.png)
 
 # Darknet #
